@@ -1,0 +1,34 @@
+@media (max-width:991px){
+.header-social-icon {display:none;}
+.search-icon {display:none;}
+.f-post-title {top:88%;}
+.slider-post-text h3 a {font-size:15px; line-height: 21px;}
+.slider-nav {display:none;}
+.page-numbers{margin-bottom: 60px;}
+}
+
+@media (max-width:750px){
+.footer-layout ul li i {font-size: 16px; width: 30px; height: 30px;}
+}
+
+@media (max-width:620px){
+.hopyfeel-main-menu, .menu-icons {display: none;}
+.menu-button {display: block;}
+.responsive-menu {display: block;left:-300px; width:300px!important}
+.footer-layout ul li{margin-right: 40px; padding: 0;}
+.slider-post-text { padding: 20px 8px;}
+.post-header-title {padding: 24px 20px;}
+}
+
+@media (max-width:430px){
+.default-logo {display:none;}
+.responsive-logo {display:block;}
+.logo {margin-top: 24px; margin-bottom:0;}
+.responsive-menu {left:-100%; width:100%!important}
+.footer-layout ul li{margin-right: 10px; padding: 0;}
+.post-text {padding: 0 26px 26px 26px;}
+.page-numbers ul li{margin-right: 9px;}
+.page-numbers ul li:first-child{margin-right: 14px;}
+.page-numbers ul li:last-child{margin-left: 14px;}
+    .post-date span a {display: block;}
+}
